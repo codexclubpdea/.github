@@ -66,7 +66,7 @@ The Codex Club is committed to providing a welcoming and inclusive environment f
 
 <p align="center">© 2025 The Codex Club | PDEAS College of Engineering</p>
 <p align="center">
-  <a href="https://instagram.com/codexclub_pdeas">Instagram</a> •
-  <a href="https://linkedin.com/company/codexclub-pdeas">LinkedIn</a> •
+  <a href="https://instagram.com/codex.pdeacoem">Instagram</a> •
+  <a href="https://www.linkedin.com/company/codexclubpdea/">LinkedIn</a> •
   <a href="https://twitter.com/codexclub_pdeas">Twitter</a>
 </p>
