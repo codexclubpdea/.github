@@ -50,9 +50,15 @@ TO BE ADDED
 
 - **President**: [Shubham Bhat]
 - **Vice President**: [Vaibhav Devkar]
-- **Technical Lead**: [TBA]
-- **Events Coordinator**: [TBA]
-- **Communications Manager**: [TBA]
+- **Technical Lead**: [Om Rindhe]
+- **Events Coordinator**: [Pratik Khandge]
+- **Photography Lead**: [Pratik Shirode]
+- **Secretary**: [Yogesh Landge]
+- **Marketing Lead**: [Tanishq Kokne]
+- **Documentation Lead**: [Sayali Bhakre]
+- **Girls Representative**: [Darshana Chaudhari]
+
+
 
 ## Contributing
 
