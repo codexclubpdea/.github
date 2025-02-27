@@ -38,8 +38,7 @@ Curated learning materials, tutorials, and industry insights shared through our 
 
 Whether you're a coding novice or an experienced developer, The Codex Club welcomes all PDEAS students who share our passion for technology and innovation.
 
-- **Weekly Meetings**: Thursday, 5:00 PM, Computing Lab 3
-- **Discord Community**: [Join our server](link)
+- **Location**: Room no. [TBA],3rd Floor,PDEA's College Of Engineering.
 - **Email**: codexclubpdea@gmail.com
 
 ## Current Projects
@@ -74,5 +73,5 @@ The Codex Club is committed to providing a welcoming and inclusive environment f
 <p align="center">
   <a href="https://instagram.com/codex.pdeacoem">Instagram</a> •
   <a href="https://www.linkedin.com/company/codexclubpdea/">LinkedIn</a> •
-  <a href="https://twitter.com/codexclub_pdeas">Twitter</a>
+  <a href="https://x.com/codex_club_pune">Twitter</a>
 </p>
