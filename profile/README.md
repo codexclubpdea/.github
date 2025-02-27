@@ -2,7 +2,7 @@
 
 *Empowering future developers at PDEAS College of Engineering*
 
-![Codex Club Logo](https://github.com/codexclubpdea/.github/blob/main/assests/codexlogsmall.png)
+![Codex Club Logo]<p align="center">(https://github.com/codexclubpdea/.github/blob/main/assests/codexlogsmall.png)</p>
 
 ## About Us
 
