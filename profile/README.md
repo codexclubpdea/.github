@@ -53,7 +53,7 @@ TO BE ADDED
 - **Events Coordinator**: [Pratik Khandge]
 - **Management Lead**: [Pratik Shirode]
 - **Secretary**: [Yogesh Landge]
-- **Design Lead**: [Sagar Karegaokar]
+- **Design Lead**: [Sagar Karegaonkar]
 - **Event Co-Ordinator**: [Aditya Kadam]
 - **Web Developer**: [Yash Varpe]
 - **Marketing Lead**: [Tanishq Kokne]
