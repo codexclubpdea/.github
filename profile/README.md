@@ -53,11 +53,12 @@ TO BE ADDED
 - **Events Coordinator**: [Pratik Khandge]
 - **Photography Lead**: [Pratik Shirode]
 - **Secretary**: [Yogesh Landge]
+- **Design Lead**: [Sagar Karegaokar]
+- **Event Co-Ordinator**: [Aditya Kadam]
+- **Web Developer**: [Yash Varpe]
 - **Marketing Lead**: [Tanishq Kokne]
 - **Documentation Lead**: [Sayali Bhakre]
 - **Girls Representative**: [Darshana Chaudhari]
-
-
 
 ## Contributing
 
