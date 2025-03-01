@@ -51,7 +51,7 @@ TO BE ADDED
 - **Vice President**: [Vaibhav Devkar]
 - **Technical Lead**: [Om Rindhe]
 - **Events Coordinator**: [Pratik Khandge]
-- **Photography Lead**: [Pratik Shirode]
+- **Management Lead**: [Pratik Shirode]
 - **Secretary**: [Yogesh Landge]
 - **Design Lead**: [Sagar Karegaokar]
 - **Event Co-Ordinator**: [Aditya Kadam]
